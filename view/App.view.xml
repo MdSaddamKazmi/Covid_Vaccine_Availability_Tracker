@@ -3,7 +3,7 @@
 	<Shell >
 		<App id="App" class="myHeaderColor">
 			<pages >
-				<Page title="Covid Vaccine Availibility Tracker(With Booster)" class="myColor responsive">
+				<Page title="Covid Vaccine Availibility Tracker(With Booster dose)" class="myColor responsive">
 					<content>
 						<Panel>
 							<content>
