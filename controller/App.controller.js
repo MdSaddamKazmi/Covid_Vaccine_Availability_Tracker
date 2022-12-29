@@ -398,7 +398,7 @@ sap.ui.define([
 						centers: []
 					};
 					var that = this;
-					var n = 1;
+					var n = 0;
 					var p = 0;
 
 					// var oData = {
